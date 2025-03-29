@@ -1,0 +1,15 @@
+# How to run: docker-compose up
+# Link for graphql: http://localhost/graphiql
+version: "3"
+
+services:
+
+   graphql-spring-boot:
+      image: graphql-spring-boot
+      networks:
+         - graphql-network
+      ports:
+         - 80:8080
+
+networks:
+   graphql-network:
