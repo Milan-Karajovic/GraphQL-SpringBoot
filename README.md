@@ -5,9 +5,9 @@ Example DGS Framework for GraphQL in Spring Boot and run project using Docker
 
 ## Author
 
-- Milan Karajovic
-- milan.karajovic.rs@gmail.com
-- [https://milan.karajovic.rs](https://milan.karajovic.rs/)
+- **Milan Karajović**
+- **email:** milan.karajovic.rs@gmail.com
+- **Portfolio:** [https://milan.karajovic.rs](https://milan.karajovic.rs/)
 
 
 ## Tech Stack
@@ -123,8 +123,6 @@ docker-compose up
  
 ## Support
 
-- Milan Karajovic
-- milan.karajovic.rs@gmail.com
-- My Portfolio: [https://milan.karajovic.rs](https://milan.karajovic.rs/)
-- Together, we can improve and learn everything.
-- Together we can change the world.
+- **Milan Karajović**
+- **email:** milan.karajovic.rs@gmail.com
+- **Portfolio:** [https://milan.karajovic.rs](https://milan.karajovic.rs/)
