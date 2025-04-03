@@ -17,6 +17,12 @@ import com.netflix.graphql.dgs.exceptions.QueryException;
 import rs.karajovic.milan.graphql_spring_boot.common.AppConstants;
 import rs.karajovic.milan.graphql_spring_boot.domain.User;
 
+/**
+ * 
+ * @author Milan Karajovic <milan.karajovic.rs@gmail.com>
+ *
+ */
+
 @SpringBootTest
 @TestMethodOrder(OrderAnnotation.class)
 public class UserMutationTest {
