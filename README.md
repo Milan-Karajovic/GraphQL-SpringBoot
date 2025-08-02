@@ -126,3 +126,4 @@ docker-compose up
 - **Milan Karajović**
 - **email:** milan.karajovic.rs@gmail.com
 - **Portfolio:** [https://milan.karajovic.rs](https://milan.karajovic.rs/)
+- **LinkedIn:** [https://www.linkedin.com/in/milan-karajovic-java-angular-security-cloud-architect/](https://www.linkedin.com/in/milan-karajovic-java-angular-security-cloud-architect/)
